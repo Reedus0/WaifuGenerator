@@ -1,0 +1,14 @@
+C:\Users\lazsa\Рабочий стол\Coding\C#\WaifuGenerator\WaifuGenerator\bin\Debug\WaifuGenerator.exe.config
+C:\Users\lazsa\Рабочий стол\Coding\C#\WaifuGenerator\WaifuGenerator\bin\Debug\WaifuGenerator.exe
+C:\Users\lazsa\Рабочий стол\Coding\C#\WaifuGenerator\WaifuGenerator\bin\Debug\WaifuGenerator.pdb
+C:\Users\lazsa\Рабочий стол\Coding\C#\WaifuGenerator\WaifuGenerator\obj\Debug\WaifuGenerator.csproj.AssemblyReference.cache
+C:\Users\lazsa\Рабочий стол\Coding\C#\WaifuGenerator\WaifuGenerator\obj\Debug\WaifuGenerator.csproj.CoreCompileInputs.cache
+C:\Users\lazsa\Рабочий стол\Coding\C#\WaifuGenerator\WaifuGenerator\obj\Debug\WaifuGenerator.exe
+C:\Users\lazsa\Рабочий стол\Coding\C#\WaifuGenerator\WaifuGenerator\obj\Debug\WaifuGenerator.pdb
+C:\Users\lazsa\Рабочий стол\Coding\Github\WaifuGenerator\WaifuGenerator\bin\Debug\WaifuGenerator.exe.config
+C:\Users\lazsa\Рабочий стол\Coding\Github\WaifuGenerator\WaifuGenerator\bin\Debug\WaifuGenerator.exe
+C:\Users\lazsa\Рабочий стол\Coding\Github\WaifuGenerator\WaifuGenerator\bin\Debug\WaifuGenerator.pdb
+C:\Users\lazsa\Рабочий стол\Coding\Github\WaifuGenerator\WaifuGenerator\obj\Debug\WaifuGenerator.csproj.AssemblyReference.cache
+C:\Users\lazsa\Рабочий стол\Coding\Github\WaifuGenerator\WaifuGenerator\obj\Debug\WaifuGenerator.csproj.CoreCompileInputs.cache
+C:\Users\lazsa\Рабочий стол\Coding\Github\WaifuGenerator\WaifuGenerator\obj\Debug\WaifuGenerator.exe
+C:\Users\lazsa\Рабочий стол\Coding\Github\WaifuGenerator\WaifuGenerator\obj\Debug\WaifuGenerator.pdb
