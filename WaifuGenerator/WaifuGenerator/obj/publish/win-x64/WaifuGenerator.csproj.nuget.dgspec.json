@@ -11,7 +11,7 @@
         "projectName": "WaifuGenerator",
         "projectPath": "C:\\Users\\lazsa\\Рабочий стол\\Coding\\Github\\WaifuGenerator\\WaifuGenerator\\WaifuGenerator.csproj",
         "packagesPath": "C:\\Users\\lazsa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lazsa\\Рабочий стол\\Coding\\Github\\WaifuGenerator\\WaifuGenerator\\obj\\",
+        "outputPath": "C:\\Users\\lazsa\\Рабочий стол\\Coding\\Github\\WaifuGenerator\\WaifuGenerator\\obj\\publish\\win-x64\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lazsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,6 +55,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     }
